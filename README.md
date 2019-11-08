@@ -1,16 +1,21 @@
 # Alphabetical-String-Sort
-Develop a program that arranges the series of
-decimal numbers shown in
-ascending order from smallest to
-largest, then prints them out. When the numbers are printed, put
-a carriage return/line feed between
-each, for neatness. 
-- Note 1: You will
-not need any counters, as the data
-provided has a final zero value, so
-that all you have to do is test for 0
-and then quit. Note that the 0 is
-NOT to be printed out—it is not a
-value to be compared but merely an
-“edge” to tell you that the list is
-over. 
+Compose a program to
+arrange the characters in
+“Hello, world!\n” in numerical
+order, smallest value to
+largest, and print out the
+result. That will of course
+mean that the string of
+characters looks more or less
+like gibberish, but the
+characters will be in proper
+numerical order, smallest to
+largest.
+
+- Note that this requires a
+recursive program to be done
+properly. As for the other two
+problems in this set, you can
+paste a copy of the program to
+the right for your records, if
+you wish. 
