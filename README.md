@@ -14,8 +14,4 @@ largest.
 
 - Note that this requires a
 recursive program to be done
-properly. As for the other two
-problems in this set, you can
-paste a copy of the program to
-the right for your records, if
-you wish. 
+properly.
